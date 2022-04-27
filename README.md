@@ -60,9 +60,9 @@ found 0 vulnerabilities
 **step 4 creates two new files and a `node_modules` directory:**  
 ```console
     .
-    ├── node modules                # Compiled files (alternatively `dist`)
-    ├── package.lock.json           # Documentation files (alternatively `doc`)
-    ├── package.json                # Source files (alternatively `lib` or `app`)
+    ├── node modules               
+    ├── package.lock.json           
+    ├── package.json          
 ```
 -----
 5. Install [hardhat dependencies](https://hardhat.org/guides/typescript.html#installing-dependencies) `ts-node` and `typescript`
